@@ -34,4 +34,4 @@ Envia uma solicitação ao professor orientador escolhido pelo aluno
 6. O usuário clica em 'Informações de estágio' para retornar; 
 7. O usuário retorna para a 'tela logado';
     
-    > Pedro
+    > Pedro Lucas Melo Hirschle
