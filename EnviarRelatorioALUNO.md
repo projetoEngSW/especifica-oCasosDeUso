@@ -32,3 +32,5 @@ envia um relatório de estágio ao professor orientador do usuário
 3. O usuário não digita os dados do relatório ; 
 4. O usuário clica em 'retornar'; 
 5. O usuário retorna para a 'tela logado'
+
+ > Pedro Lucas Melo Hirschle
