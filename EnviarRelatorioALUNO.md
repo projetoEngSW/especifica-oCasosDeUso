@@ -9,7 +9,7 @@ usuário aluno enviar um relatório de estágio ao seu professor orientador.
 clicar em 'Enviar relatório ao orientador', inserir dados e clicar em 'Enviar' 
 
 #### Atores:
-usuário (aluno) 
+usuário (aluno) e usuário professor 
 
 ####  Pré-condições: 
 usuário deve estar cadastrado no sistema como aluno e logado      
