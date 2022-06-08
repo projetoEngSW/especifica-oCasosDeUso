@@ -21,11 +21,11 @@ Usuário deve estar cadastrado no sistema
 6. O usuário permanece na mesma tela. 
 ##### Fluxo alternativo: Usuário usou dados errados.
 
-5. 1. O sistema retorna erro de usuário não encontrado.
-5. 2. O usuário permanece na mesma tela e é solicitado que verifique os dados.
+5.1. O sistema retorna erro de usuário não encontrado.
+5.2. O usuário permanece na mesma tela e é solicitado que verifique os dados.
 #####  Fluxo alternativo:  Usuário não esqueceu a senha
-2. 1. O usuário clica em retornar; 
-3. 2. O usuário retorna para a tela inicial.
+2.1. O usuário clica em retornar; 
+2.2. O usuário retorna para a tela inicial.
 
 
 >Ênio Ferreira da Silva
