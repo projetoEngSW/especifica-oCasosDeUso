@@ -3,19 +3,19 @@
 ## ENVIAR RELATÓRIO - ALUNO 
 
 #### Objetivo: 
-Usuário aluno enviar um relatório de estágio ao seu professor orientador. 
+usuário aluno enviar um relatório de estágio ao seu professor orientador. 
 
 #### Requisitos: 
 clicar em 'Enviar relatório ao orientador', inserir dados e clicar em 'Enviar' 
 
 #### Atores:
-Usuário (aluno) 
+usuário (aluno) 
 
 ####  Pré-condições: 
-Usuário deve estar cadastrado no sistema como aluno 
+usuário deve estar cadastrado no sistema como aluno 
 
 #### Pós-condições: 
-Envia um relatório de estágio ao professor orientador do usuário 
+envia um relatório de estágio ao professor orientador do usuário 
 
 #### Fluxo principal: 
 1. O sistema apresenta a 'tela logado' ao usuário; 
