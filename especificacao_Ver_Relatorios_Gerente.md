@@ -23,7 +23,7 @@ Uma nota é dada ao relatório do aluno.
 3. O sistema apresenta uma lista com todos os relatórios recebidos dos alunos com opção de fazer download e avaliar;
 4. O usuário avalia o relatório recebido.
 
-#### Fluxo principal: 
+#### Fluxo alternativo: 
 1. O sistema apresenta a 'tela logado' ao usuário; 
 2. O usuário seleciona a opção 'relatórios recebidos';
 3. O sistema apresenta uma lista com todos os relatórios recebidos dos alunos com opção de fazer download e avaliar;
