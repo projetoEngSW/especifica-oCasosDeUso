@@ -12,7 +12,7 @@ clicar em 'Enviar relatório ao orientador', inserir dados e clicar em 'Enviar'
 usuário (aluno) 
 
 ####  Pré-condições: 
-usuário deve estar cadastrado no sistema como aluno 
+usuário deve estar cadastrado no sistema como aluno e logado      
 
 #### Pós-condições: 
 envia um relatório de estágio ao professor orientador do usuário 
